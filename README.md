@@ -995,8 +995,8 @@ This project is for educational purposes as part of the Endterm Project.
 
 ## 👤 Author
 
-**Your Name**  
-University: [Your University]  
+**Kurbanbai Sayan** 
+University: Astana It University
 Course: Advanced Object-Oriented Programming  
 Year: 2024
 
@@ -1011,4 +1011,4 @@ Year: 2024
 
 ---
 
-**Made with ❤️ for learning and growth**
+
