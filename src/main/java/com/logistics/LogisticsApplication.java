@@ -9,7 +9,7 @@ public class LogisticsApplication {
         SpringApplication.run(LogisticsApplication.class, args);
         System.out.println("\n==============================================");
         System.out.println("Smart Logistics Management System API Started");
-        System.out.println("Server running on: http://localhost:8080");
+        System.out.println("Server running on: http://localhost:8081");
         System.out.println("==============================================\n");
     }
 }
